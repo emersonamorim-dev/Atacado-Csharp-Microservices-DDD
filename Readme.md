@@ -2,6 +2,13 @@
 
 Codificação em Csharp para um projeto demonstra a implementação de um Microservice de Atacado utilizando o padrão DDD (Domain-Driven Design) em C# com integração ao MongoDB para armazenamento de dados. O microservice é completo, funcional e robusto sendo composto pelos seguintes subsistemas:
 
+### Tecnologias Usadas:
+
+- Visual Studio 2022
+- .NET Core 7.0: Framework utilizado para desenvolver a aplicação.
+- Entity Framework: ORM utilizado para interação com o banco de dados.
+- MongoDB
+
 1. **MicroservicoAdministracao:** Responsável pelas operações administrativas, como gerenciamento de usuários e perfis de acesso.
 
 2. **MicroservicoCompras:** Gerencia as compras realizadas pelo atacado, incluindo criação, consulta, atualização e remoção de pedidos.
