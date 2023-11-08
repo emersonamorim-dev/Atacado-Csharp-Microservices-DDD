@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MicroservicoEstoque.Api.props" />
+</Project>

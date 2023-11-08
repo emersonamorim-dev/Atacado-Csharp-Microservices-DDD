@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A61I6P+YND0uipiMRPHpCHEHF5VOFlK9PlgT6vuar1s=",
+  "Source": "MicroservicoCompras.Api",
+  "BasePath": "_content/MicroservicoCompras.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

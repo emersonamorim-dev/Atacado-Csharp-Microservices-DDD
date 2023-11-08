@@ -1,0 +1,14 @@
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Infra\bin\Debug\net7.0\MicroservicoVendas.Infra.deps.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Infra\bin\Debug\net7.0\MicroservicoVendas.Infra.runtimeconfig.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Infra\bin\Debug\net7.0\MicroservicoVendas.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Infra\bin\Debug\net7.0\MicroservicoVendas.Infra.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Infra\obj\Debug\net7.0\MicroservicoVendas.Infra.csproj.AssemblyReference.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Infra\obj\Debug\net7.0\MicroservicoVendas.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Infra\obj\Debug\net7.0\MicroservicoVendas.Infra.AssemblyInfoInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Infra\obj\Debug\net7.0\MicroservicoVendas.Infra.AssemblyInfo.cs
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Infra\obj\Debug\net7.0\MicroservicoVendas.Infra.csproj.CoreCompileInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Infra\obj\Debug\net7.0\MicroservicoVendas.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Infra\obj\Debug\net7.0\refint\MicroservicoVendas.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Infra\obj\Debug\net7.0\MicroservicoVendas.Infra.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Infra\obj\Debug\net7.0\MicroservicoVendas.Infra.genruntimeconfig.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Infra\obj\Debug\net7.0\ref\MicroservicoVendas.Infra.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FySzAZ5FvO0sKTGkINVcs19VAJps6j+oyLgE5N6SASs=",
+  "Source": "MicroservicoVendas.Api",
+  "BasePath": "_content/MicroservicoVendas.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

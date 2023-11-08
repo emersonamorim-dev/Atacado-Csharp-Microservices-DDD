@@ -1,0 +1,14 @@
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoRH\MicroservicoRH.Application\bin\Debug\net7.0\MicroservicoRH.Application.deps.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoRH\MicroservicoRH.Application\bin\Debug\net7.0\MicroservicoRH.Application.runtimeconfig.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoRH\MicroservicoRH.Application\bin\Debug\net7.0\MicroservicoRH.Application.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoRH\MicroservicoRH.Application\bin\Debug\net7.0\MicroservicoRH.Application.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoRH\MicroservicoRH.Application\obj\Debug\net7.0\MicroservicoRH.Application.csproj.AssemblyReference.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoRH\MicroservicoRH.Application\obj\Debug\net7.0\MicroservicoRH.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoRH\MicroservicoRH.Application\obj\Debug\net7.0\MicroservicoRH.Application.AssemblyInfoInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoRH\MicroservicoRH.Application\obj\Debug\net7.0\MicroservicoRH.Application.AssemblyInfo.cs
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoRH\MicroservicoRH.Application\obj\Debug\net7.0\MicroservicoRH.Application.csproj.CoreCompileInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoRH\MicroservicoRH.Application\obj\Debug\net7.0\MicroservicoRH.Application.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoRH\MicroservicoRH.Application\obj\Debug\net7.0\refint\MicroservicoRH.Application.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoRH\MicroservicoRH.Application\obj\Debug\net7.0\MicroservicoRH.Application.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoRH\MicroservicoRH.Application\obj\Debug\net7.0\MicroservicoRH.Application.genruntimeconfig.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoRH\MicroservicoRH.Application\obj\Debug\net7.0\ref\MicroservicoRH.Application.dll

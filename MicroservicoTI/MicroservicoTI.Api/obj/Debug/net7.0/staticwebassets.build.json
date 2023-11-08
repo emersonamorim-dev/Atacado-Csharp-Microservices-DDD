@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X6nzTR4JoVQjoVvS33oRgiMdQwykiWnUlDGyROmZPjM=",
+  "Source": "MicroservicoTI.Api",
+  "BasePath": "_content/MicroservicoTI.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

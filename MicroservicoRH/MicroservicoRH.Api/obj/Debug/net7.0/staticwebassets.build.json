@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jw3rKD4sH5m62AMunswNz/EgbT63GYJwA0p7SXesDqk=",
+  "Source": "MicroservicoRH.Api",
+  "BasePath": "_content/MicroservicoRH.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

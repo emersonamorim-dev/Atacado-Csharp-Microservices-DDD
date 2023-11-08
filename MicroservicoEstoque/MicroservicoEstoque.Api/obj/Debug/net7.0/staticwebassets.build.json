@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sTCZjqo8wv1r0gp6FCHM/LOL6f1kNEZ0FydOhjpd1vQ=",
+  "Source": "MicroservicoEstoque.Api",
+  "BasePath": "_content/MicroservicoEstoque.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

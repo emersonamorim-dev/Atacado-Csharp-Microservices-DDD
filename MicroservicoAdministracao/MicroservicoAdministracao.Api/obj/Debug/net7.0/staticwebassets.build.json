@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DON4u+BGVSMvXgdWp7ILSQ0IgSCHJ+HpyaPwbkL812E=",
+  "Source": "MicroservicoAdministracao.Api",
+  "BasePath": "_content/MicroservicoAdministracao.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

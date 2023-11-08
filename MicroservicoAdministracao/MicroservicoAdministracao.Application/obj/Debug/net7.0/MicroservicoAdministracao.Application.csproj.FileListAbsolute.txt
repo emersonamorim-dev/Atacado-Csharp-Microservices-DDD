@@ -1,0 +1,14 @@
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoAdministracao\MicroservicoAdministracao.Application\bin\Debug\net7.0\MicroservicoAdministracao.Application.deps.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoAdministracao\MicroservicoAdministracao.Application\bin\Debug\net7.0\MicroservicoAdministracao.Application.runtimeconfig.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoAdministracao\MicroservicoAdministracao.Application\bin\Debug\net7.0\MicroservicoAdministracao.Application.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoAdministracao\MicroservicoAdministracao.Application\bin\Debug\net7.0\MicroservicoAdministracao.Application.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoAdministracao\MicroservicoAdministracao.Application\obj\Debug\net7.0\MicroservicoAdministracao.Application.csproj.AssemblyReference.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoAdministracao\MicroservicoAdministracao.Application\obj\Debug\net7.0\MicroservicoAdministracao.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoAdministracao\MicroservicoAdministracao.Application\obj\Debug\net7.0\MicroservicoAdministracao.Application.AssemblyInfoInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoAdministracao\MicroservicoAdministracao.Application\obj\Debug\net7.0\MicroservicoAdministracao.Application.AssemblyInfo.cs
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoAdministracao\MicroservicoAdministracao.Application\obj\Debug\net7.0\MicroservicoAdministracao.Application.csproj.CoreCompileInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoAdministracao\MicroservicoAdministracao.Application\obj\Debug\net7.0\MicroservicoAdministracao.Application.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoAdministracao\MicroservicoAdministracao.Application\obj\Debug\net7.0\refint\MicroservicoAdministracao.Application.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoAdministracao\MicroservicoAdministracao.Application\obj\Debug\net7.0\MicroservicoAdministracao.Application.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoAdministracao\MicroservicoAdministracao.Application\obj\Debug\net7.0\MicroservicoAdministracao.Application.genruntimeconfig.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoAdministracao\MicroservicoAdministracao.Application\obj\Debug\net7.0\ref\MicroservicoAdministracao.Application.dll

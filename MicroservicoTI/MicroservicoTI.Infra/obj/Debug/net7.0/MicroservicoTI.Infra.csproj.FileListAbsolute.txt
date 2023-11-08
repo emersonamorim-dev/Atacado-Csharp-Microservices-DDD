@@ -1,0 +1,14 @@
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoTI\MicroservicoTI.Infra\bin\Debug\net7.0\MicroservicoTI.Infra.deps.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoTI\MicroservicoTI.Infra\bin\Debug\net7.0\MicroservicoTI.Infra.runtimeconfig.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoTI\MicroservicoTI.Infra\bin\Debug\net7.0\MicroservicoTI.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoTI\MicroservicoTI.Infra\bin\Debug\net7.0\MicroservicoTI.Infra.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoTI\MicroservicoTI.Infra\obj\Debug\net7.0\MicroservicoTI.Infra.csproj.AssemblyReference.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoTI\MicroservicoTI.Infra\obj\Debug\net7.0\MicroservicoTI.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoTI\MicroservicoTI.Infra\obj\Debug\net7.0\MicroservicoTI.Infra.AssemblyInfoInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoTI\MicroservicoTI.Infra\obj\Debug\net7.0\MicroservicoTI.Infra.AssemblyInfo.cs
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoTI\MicroservicoTI.Infra\obj\Debug\net7.0\MicroservicoTI.Infra.csproj.CoreCompileInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoTI\MicroservicoTI.Infra\obj\Debug\net7.0\MicroservicoTI.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoTI\MicroservicoTI.Infra\obj\Debug\net7.0\refint\MicroservicoTI.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoTI\MicroservicoTI.Infra\obj\Debug\net7.0\MicroservicoTI.Infra.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoTI\MicroservicoTI.Infra\obj\Debug\net7.0\MicroservicoTI.Infra.genruntimeconfig.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoTI\MicroservicoTI.Infra\obj\Debug\net7.0\ref\MicroservicoTI.Infra.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MicroservicoFinancas.Api.props" />
+</Project>

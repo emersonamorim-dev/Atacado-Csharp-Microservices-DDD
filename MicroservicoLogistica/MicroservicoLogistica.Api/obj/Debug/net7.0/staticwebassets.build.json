@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "43buInK6itcujGKfEuHCJH0Pagu4ci/Au9tbkr2f80c=",
+  "Source": "MicroservicoLogistica.Api",
+  "BasePath": "_content/MicroservicoLogistica.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

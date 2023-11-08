@@ -1,0 +1,14 @@
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Domain\obj\Debug\net7.0\MicroservicoEstoque.Domain.csproj.AssemblyReference.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Domain\obj\Debug\net7.0\MicroservicoEstoque.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Domain\obj\Debug\net7.0\MicroservicoEstoque.Domain.AssemblyInfoInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Domain\obj\Debug\net7.0\MicroservicoEstoque.Domain.AssemblyInfo.cs
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Domain\obj\Debug\net7.0\MicroservicoEstoque.Domain.csproj.CoreCompileInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Domain\bin\Debug\net7.0\MicroservicoEstoque.Domain.deps.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Domain\bin\Debug\net7.0\MicroservicoEstoque.Domain.runtimeconfig.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Domain\bin\Debug\net7.0\MicroservicoEstoque.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Domain\bin\Debug\net7.0\MicroservicoEstoque.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Domain\obj\Debug\net7.0\MicroservicoEstoque.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Domain\obj\Debug\net7.0\refint\MicroservicoEstoque.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Domain\obj\Debug\net7.0\MicroservicoEstoque.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Domain\obj\Debug\net7.0\MicroservicoEstoque.Domain.genruntimeconfig.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Domain\obj\Debug\net7.0\ref\MicroservicoEstoque.Domain.dll

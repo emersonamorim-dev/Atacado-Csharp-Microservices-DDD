@@ -1,0 +1,14 @@
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Domain\bin\Debug\net7.0\MicroservicoMarketing.Domain.deps.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Domain\bin\Debug\net7.0\MicroservicoMarketing.Domain.runtimeconfig.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Domain\bin\Debug\net7.0\MicroservicoMarketing.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Domain\bin\Debug\net7.0\MicroservicoMarketing.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Domain\obj\Debug\net7.0\MicroservicoMarketing.Domain.csproj.AssemblyReference.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Domain\obj\Debug\net7.0\MicroservicoMarketing.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Domain\obj\Debug\net7.0\MicroservicoMarketing.Domain.AssemblyInfoInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Domain\obj\Debug\net7.0\MicroservicoMarketing.Domain.AssemblyInfo.cs
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Domain\obj\Debug\net7.0\MicroservicoMarketing.Domain.csproj.CoreCompileInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Domain\obj\Debug\net7.0\MicroservicoMarketing.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Domain\obj\Debug\net7.0\refint\MicroservicoMarketing.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Domain\obj\Debug\net7.0\MicroservicoMarketing.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Domain\obj\Debug\net7.0\MicroservicoMarketing.Domain.genruntimeconfig.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Domain\obj\Debug\net7.0\ref\MicroservicoMarketing.Domain.dll

@@ -1,0 +1,17 @@
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\obj\Debug\net7.0\MicroservicoCompras.Domain.csproj.AssemblyReference.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\obj\Debug\net7.0\MicroservicoCompras.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\obj\Debug\net7.0\MicroservicoCompras.Domain.AssemblyInfoInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\obj\Debug\net7.0\MicroservicoCompras.Domain.AssemblyInfo.cs
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\obj\Debug\net7.0\MicroservicoCompras.Domain.csproj.CoreCompileInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\bin\Debug\net7.0\MicroservicoCompras.Domain.deps.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\bin\Debug\net7.0\MicroservicoCompras.Domain.runtimeconfig.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\bin\Debug\net7.0\MicroservicoCompras.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\bin\Debug\net7.0\MicroservicoCompras.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\bin\Debug\net7.0\MicroservicoEstoque.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\bin\Debug\net7.0\MicroservicoEstoque.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\obj\Debug\net7.0\MicroservicoCompras.Domain.csproj.CopyComplete
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\obj\Debug\net7.0\MicroservicoCompras.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\obj\Debug\net7.0\refint\MicroservicoCompras.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\obj\Debug\net7.0\MicroservicoCompras.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\obj\Debug\net7.0\MicroservicoCompras.Domain.genruntimeconfig.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoCompras\MicroservicoCompras.Domain\obj\Debug\net7.0\ref\MicroservicoCompras.Domain.dll

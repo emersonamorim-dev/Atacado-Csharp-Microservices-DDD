@@ -1,0 +1,14 @@
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoFinancas\MicroservicoFinancas.Domain\bin\Debug\net7.0\MicroservicoFinancas.Domain.deps.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoFinancas\MicroservicoFinancas.Domain\bin\Debug\net7.0\MicroservicoFinancas.Domain.runtimeconfig.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoFinancas\MicroservicoFinancas.Domain\bin\Debug\net7.0\MicroservicoFinancas.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoFinancas\MicroservicoFinancas.Domain\bin\Debug\net7.0\MicroservicoFinancas.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoFinancas\MicroservicoFinancas.Domain\obj\Debug\net7.0\MicroservicoFinancas.Domain.csproj.AssemblyReference.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoFinancas\MicroservicoFinancas.Domain\obj\Debug\net7.0\MicroservicoFinancas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoFinancas\MicroservicoFinancas.Domain\obj\Debug\net7.0\MicroservicoFinancas.Domain.AssemblyInfoInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoFinancas\MicroservicoFinancas.Domain\obj\Debug\net7.0\MicroservicoFinancas.Domain.AssemblyInfo.cs
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoFinancas\MicroservicoFinancas.Domain\obj\Debug\net7.0\MicroservicoFinancas.Domain.csproj.CoreCompileInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoFinancas\MicroservicoFinancas.Domain\obj\Debug\net7.0\MicroservicoFinancas.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoFinancas\MicroservicoFinancas.Domain\obj\Debug\net7.0\refint\MicroservicoFinancas.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoFinancas\MicroservicoFinancas.Domain\obj\Debug\net7.0\MicroservicoFinancas.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoFinancas\MicroservicoFinancas.Domain\obj\Debug\net7.0\MicroservicoFinancas.Domain.genruntimeconfig.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoFinancas\MicroservicoFinancas.Domain\obj\Debug\net7.0\ref\MicroservicoFinancas.Domain.dll

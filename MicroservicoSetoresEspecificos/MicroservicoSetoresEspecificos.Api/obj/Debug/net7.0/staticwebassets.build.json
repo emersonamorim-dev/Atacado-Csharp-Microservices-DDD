@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f3bKL8qDpjEToxYouQdgU8QAya/qTNIYDLBeepoWvdQ=",
+  "Source": "MicroservicoSetoresEspecificos.Api",
+  "BasePath": "_content/MicroservicoSetoresEspecificos.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

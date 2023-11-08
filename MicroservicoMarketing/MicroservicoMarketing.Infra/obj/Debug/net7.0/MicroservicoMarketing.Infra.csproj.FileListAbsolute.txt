@@ -1,0 +1,17 @@
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\bin\Debug\net7.0\MicroservicoMarketing.Infra.deps.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\bin\Debug\net7.0\MicroservicoMarketing.Infra.runtimeconfig.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\bin\Debug\net7.0\MicroservicoMarketing.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\bin\Debug\net7.0\MicroservicoMarketing.Infra.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\obj\Debug\net7.0\MicroservicoMarketing.Infra.csproj.AssemblyReference.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\obj\Debug\net7.0\MicroservicoMarketing.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\obj\Debug\net7.0\MicroservicoMarketing.Infra.AssemblyInfoInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\obj\Debug\net7.0\MicroservicoMarketing.Infra.AssemblyInfo.cs
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\obj\Debug\net7.0\MicroservicoMarketing.Infra.csproj.CoreCompileInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\obj\Debug\net7.0\MicroservicoMarketing.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\obj\Debug\net7.0\refint\MicroservicoMarketing.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\obj\Debug\net7.0\MicroservicoMarketing.Infra.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\obj\Debug\net7.0\MicroservicoMarketing.Infra.genruntimeconfig.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\obj\Debug\net7.0\ref\MicroservicoMarketing.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\bin\Debug\net7.0\MicroservicoMarketing.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\bin\Debug\net7.0\MicroservicoMarketing.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoMarketing\MicroservicoMarketing.Infra\obj\Debug\net7.0\MicroservicoMarketing.Infra.csproj.CopyComplete

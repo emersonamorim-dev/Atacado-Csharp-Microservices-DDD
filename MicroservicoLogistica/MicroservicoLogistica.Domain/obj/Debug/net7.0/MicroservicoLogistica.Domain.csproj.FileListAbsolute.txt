@@ -1,0 +1,14 @@
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Domain\bin\Debug\net7.0\MicroservicoLogistica.Domain.deps.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Domain\bin\Debug\net7.0\MicroservicoLogistica.Domain.runtimeconfig.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Domain\bin\Debug\net7.0\MicroservicoLogistica.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Domain\bin\Debug\net7.0\MicroservicoLogistica.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Domain\obj\Debug\net7.0\MicroservicoLogistica.Domain.csproj.AssemblyReference.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Domain\obj\Debug\net7.0\MicroservicoLogistica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Domain\obj\Debug\net7.0\MicroservicoLogistica.Domain.AssemblyInfoInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Domain\obj\Debug\net7.0\MicroservicoLogistica.Domain.AssemblyInfo.cs
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Domain\obj\Debug\net7.0\MicroservicoLogistica.Domain.csproj.CoreCompileInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Domain\obj\Debug\net7.0\MicroservicoLogistica.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Domain\obj\Debug\net7.0\refint\MicroservicoLogistica.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Domain\obj\Debug\net7.0\MicroservicoLogistica.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Domain\obj\Debug\net7.0\MicroservicoLogistica.Domain.genruntimeconfig.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Domain\obj\Debug\net7.0\ref\MicroservicoLogistica.Domain.dll

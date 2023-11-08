@@ -1,0 +1,14 @@
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Domain\bin\Debug\net7.0\MicroservicoVendas.Domain.deps.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Domain\bin\Debug\net7.0\MicroservicoVendas.Domain.runtimeconfig.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Domain\bin\Debug\net7.0\MicroservicoVendas.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Domain\bin\Debug\net7.0\MicroservicoVendas.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Domain\obj\Debug\net7.0\MicroservicoVendas.Domain.csproj.AssemblyReference.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Domain\obj\Debug\net7.0\MicroservicoVendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Domain\obj\Debug\net7.0\MicroservicoVendas.Domain.AssemblyInfoInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Domain\obj\Debug\net7.0\MicroservicoVendas.Domain.AssemblyInfo.cs
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Domain\obj\Debug\net7.0\MicroservicoVendas.Domain.csproj.CoreCompileInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Domain\obj\Debug\net7.0\MicroservicoVendas.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Domain\obj\Debug\net7.0\refint\MicroservicoVendas.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Domain\obj\Debug\net7.0\MicroservicoVendas.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Domain\obj\Debug\net7.0\MicroservicoVendas.Domain.genruntimeconfig.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoVendas\MicroservicoVendas.Domain\obj\Debug\net7.0\ref\MicroservicoVendas.Domain.dll

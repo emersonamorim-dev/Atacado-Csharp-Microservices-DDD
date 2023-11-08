@@ -1,0 +1,17 @@
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\bin\Debug\net7.0\MicroservicoLogistica.Infra.deps.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\bin\Debug\net7.0\MicroservicoLogistica.Infra.runtimeconfig.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\bin\Debug\net7.0\MicroservicoLogistica.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\bin\Debug\net7.0\MicroservicoLogistica.Infra.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\obj\Debug\net7.0\MicroservicoLogistica.Infra.csproj.AssemblyReference.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\obj\Debug\net7.0\MicroservicoLogistica.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\obj\Debug\net7.0\MicroservicoLogistica.Infra.AssemblyInfoInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\obj\Debug\net7.0\MicroservicoLogistica.Infra.AssemblyInfo.cs
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\obj\Debug\net7.0\MicroservicoLogistica.Infra.csproj.CoreCompileInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\obj\Debug\net7.0\MicroservicoLogistica.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\obj\Debug\net7.0\refint\MicroservicoLogistica.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\obj\Debug\net7.0\MicroservicoLogistica.Infra.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\obj\Debug\net7.0\MicroservicoLogistica.Infra.genruntimeconfig.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\obj\Debug\net7.0\ref\MicroservicoLogistica.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\bin\Debug\net7.0\MicroservicoLogistica.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\bin\Debug\net7.0\MicroservicoLogistica.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoLogistica\MicroservicoLogistica.Infra\obj\Debug\net7.0\MicroservicoLogistica.Infra.csproj.CopyComplete

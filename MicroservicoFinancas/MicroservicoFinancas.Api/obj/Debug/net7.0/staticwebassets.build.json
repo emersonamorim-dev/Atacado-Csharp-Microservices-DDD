@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VX6x8RoCKPiQtkriqOy+c1wt1phGHNPtaiz0BacKSbM=",
+  "Source": "MicroservicoFinancas.Api",
+  "BasePath": "_content/MicroservicoFinancas.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

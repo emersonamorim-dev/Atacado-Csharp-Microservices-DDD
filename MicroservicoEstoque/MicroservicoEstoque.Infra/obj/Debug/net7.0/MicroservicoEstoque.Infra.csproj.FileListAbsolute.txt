@@ -1,0 +1,17 @@
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\obj\Debug\net7.0\MicroservicoEstoque.Infra.csproj.AssemblyReference.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\obj\Debug\net7.0\MicroservicoEstoque.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\obj\Debug\net7.0\MicroservicoEstoque.Infra.AssemblyInfoInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\obj\Debug\net7.0\MicroservicoEstoque.Infra.AssemblyInfo.cs
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\obj\Debug\net7.0\MicroservicoEstoque.Infra.csproj.CoreCompileInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\bin\Debug\net7.0\MicroservicoEstoque.Infra.deps.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\bin\Debug\net7.0\MicroservicoEstoque.Infra.runtimeconfig.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\bin\Debug\net7.0\MicroservicoEstoque.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\bin\Debug\net7.0\MicroservicoEstoque.Infra.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\bin\Debug\net7.0\MicroservicoEstoque.Domain.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\bin\Debug\net7.0\MicroservicoEstoque.Domain.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\obj\Debug\net7.0\MicroservicoEstoque.Infra.csproj.CopyComplete
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\obj\Debug\net7.0\MicroservicoEstoque.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\obj\Debug\net7.0\refint\MicroservicoEstoque.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\obj\Debug\net7.0\MicroservicoEstoque.Infra.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\obj\Debug\net7.0\MicroservicoEstoque.Infra.genruntimeconfig.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoEstoque\MicroservicoEstoque.Infra\obj\Debug\net7.0\ref\MicroservicoEstoque.Infra.dll

@@ -1,0 +1,14 @@
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoSetoresEspecificos\MicroservicoSetoresEspecificos.Infra\bin\Debug\net7.0\MicroservicoSetoresEspecificos.Infra.deps.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoSetoresEspecificos\MicroservicoSetoresEspecificos.Infra\bin\Debug\net7.0\MicroservicoSetoresEspecificos.Infra.runtimeconfig.json
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoSetoresEspecificos\MicroservicoSetoresEspecificos.Infra\bin\Debug\net7.0\MicroservicoSetoresEspecificos.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoSetoresEspecificos\MicroservicoSetoresEspecificos.Infra\bin\Debug\net7.0\MicroservicoSetoresEspecificos.Infra.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoSetoresEspecificos\MicroservicoSetoresEspecificos.Infra\obj\Debug\net7.0\MicroservicoSetoresEspecificos.Infra.csproj.AssemblyReference.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoSetoresEspecificos\MicroservicoSetoresEspecificos.Infra\obj\Debug\net7.0\MicroservicoSetoresEspecificos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoSetoresEspecificos\MicroservicoSetoresEspecificos.Infra\obj\Debug\net7.0\MicroservicoSetoresEspecificos.Infra.AssemblyInfoInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoSetoresEspecificos\MicroservicoSetoresEspecificos.Infra\obj\Debug\net7.0\MicroservicoSetoresEspecificos.Infra.AssemblyInfo.cs
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoSetoresEspecificos\MicroservicoSetoresEspecificos.Infra\obj\Debug\net7.0\MicroservicoSetoresEspecificos.Infra.csproj.CoreCompileInputs.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoSetoresEspecificos\MicroservicoSetoresEspecificos.Infra\obj\Debug\net7.0\MicroservicoSetoresEspecificos.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoSetoresEspecificos\MicroservicoSetoresEspecificos.Infra\obj\Debug\net7.0\refint\MicroservicoSetoresEspecificos.Infra.dll
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoSetoresEspecificos\MicroservicoSetoresEspecificos.Infra\obj\Debug\net7.0\MicroservicoSetoresEspecificos.Infra.pdb
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoSetoresEspecificos\MicroservicoSetoresEspecificos.Infra\obj\Debug\net7.0\MicroservicoSetoresEspecificos.Infra.genruntimeconfig.cache
+D:\projetos\projetos-csharp\18\Atacado-Csharp-Microservices-DDD\MicroservicoSetoresEspecificos\MicroservicoSetoresEspecificos.Infra\obj\Debug\net7.0\ref\MicroservicoSetoresEspecificos.Infra.dll
