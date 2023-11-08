@@ -172,6 +172,33 @@ O método DeleteClienteAsync exclui um cliente do banco de dados, identificando-
 
 O método UpdateClienteAsync atualiza as informações de um cliente existente, também identificando-o pelo seu ID.
 
+### Consulta do Endpoint Cliente
+-Requisição Post
+```
+https://localhost:7289/Cliente
+```
+
+```
+  {
+    "nome": "Emerson Amorim",
+    "email": "emerson_tecno@hotmail.com",
+    "telefone": "(11)991437215",
+    "endereco": "rua sn"
+  }
+```
+
+### Consulta do Endpoint Vendas
+```
+https://localhost:7289/Vendas
+```
+```
+  {
+    "produto": "Eletronico",
+    "status": "Concluida",
+    "valorTotal": 299.99,
+    "dataVenda": "2023-10-03T14:30:00Z"
+  }
+```
 
 ###  Considerações finais
 Este projeto exemplifica a aplicação do padrão DDD em microservices, com foco na modelagem de domínio, comunicação entre subsistemas e armazenamento de dados utilizando MongoDB. A implementação prática de outros subsistemas e a integração com o microservice de clientes podem ser exploradas para uma aplicação mais completa.
