@@ -173,7 +173,7 @@ O método DeleteClienteAsync exclui um cliente do banco de dados, identificando-
 O método UpdateClienteAsync atualiza as informações de um cliente existente, também identificando-o pelo seu ID.
 
 ### Consulta do Endpoint Cliente
--Requisição Post
+- Requisição Post
 ```
 https://localhost:7289/Cliente
 ```
@@ -188,6 +188,7 @@ https://localhost:7289/Cliente
 ```
 
 ### Consulta do Endpoint Vendas
+- Requisição Post
 ```
 https://localhost:7289/Vendas
 ```
