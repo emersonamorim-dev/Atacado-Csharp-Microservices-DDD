@@ -1,4 +1,4 @@
-## Microservice de Atacado com DDD em C# e MongoDB 🚀 🔄 🌐
+## Microservices de Atacado com DDD em C# e MongoDB 🚀 🔄 🌐 
 
 Codificação em Csharp para um projeto demonstra a implementação de um Microservice de Atacado utilizando o padrão DDD (Domain-Driven Design) em C# com integração ao MongoDB para armazenamento de dados. O microservice é completo, funcional e robusto sendo composto pelos seguintes subsistemas:
 
